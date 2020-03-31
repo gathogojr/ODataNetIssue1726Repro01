@@ -1,0 +1,1 @@
+This repo is intended to reproduce [this](https://github.com/OData/odata.net/issues/1726) OData .NET issue
